@@ -27,6 +27,9 @@ Dashboard Features:
 
 Tools & Technologies:
 Power BI | Data Visualization | Business Analysis
-<img width="910" height="508" alt="image" src="https://github.com/user-attachments/assets/c5d69c87-abff-43f1-b109-29739dbb7adf" />
-<img width="907" height="508" alt="image" src="https://github.com/user-attachments/assets/f6ac4330-8426-46b0-ba15-cd10b04ce4c1" />
+
+<img width="910" height="509" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/7680449b-6e7d-4c84-9079-b57bf3da3f8f" />
+<img width="913" height="508" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/4fbc0f27-ffb6-49de-b5f0-2bd5fc13a9d3" />
+
+
 
