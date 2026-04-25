@@ -56,7 +56,8 @@ An interactive dashboard was developed to help visualize key metrics and support
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](add-your-image-here.png)
+<img width="910" height="509" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/7680449b-6e7d-4c84-9079-b57bf3da3f8f" />
+<img width="913" height="508" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/4fbc0f27-ffb6-49de-b5f0-2bd5fc13a9d3" />
 
 ---
 
@@ -77,10 +78,6 @@ This project demonstrates the ability to transform raw data into meaningful insi
 ## 🔗 Author
 
 **Pranav Kurupath**
-
-
-<img width="910" height="509" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/7680449b-6e7d-4c84-9079-b57bf3da3f8f" />
-<img width="913" height="508" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/4fbc0f27-ffb6-49de-b5f0-2bd5fc13a9d3" />
 
 
 
