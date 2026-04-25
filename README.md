@@ -1,32 +1,83 @@
-# Flipkart-Sales-Analysis
-Designed and developed an interactive Power BI dashboard to analyze Flipkart sales, profitability, and customer behavior across regions, categories, and payment methods.
+# 🛒 Flipkart Sales Analysis (Power BI Dashboard)
 
-Key Insights:
+## 📌 Overview
+This project focuses on analyzing Flipkart sales data using Power BI to uncover insights related to sales performance, profitability, customer behavior, and regional trends.
 
-- The North region emerged as the highest revenue contributor ~20M+, indicating strong regional demand concentration.
+An interactive dashboard was developed to help visualize key metrics and support data-driven decision-making.
 
-- Sales showed clear seasonality, with a peak in July ~7.6M, highlighting potential for targeted promotional campaigns.
+---
 
-- Wholesale and Online segments contributed the majority of total sales, while Retail lagged behind.
+## 🧰 Tools & Technologies
+- Power BI
+- Data Visualization
+- Business Analysis
 
-- Payment methods were evenly distributed, with UPI, Wallets, and Net Banking showing similar adoption trends.
+---
 
-- Total profit reached ~15M, with Educational Books and Laptops identified as the most profitable products.
+## 📊 Key Metrics
+- Total Sales: 75M+
+- Total Profit: 15M+
+- Average Rating: ~3.0
+- Quantity Sold: 3K+
 
-- A moderate correlation between discounts and profit suggests that higher discounts do not always lead to higher profitability.
+---
 
-- Electronics and Books categories maintained consistent performance, while other categories showed fluctuations.
+## 🔍 Key Insights
 
-- Average customer rating (~3.0) indicates scope for improving product quality and customer satisfaction.
+- The **North region** is the highest revenue contributor (~20M+), indicating strong regional demand.
+- Sales show clear **seasonality**, with a peak in **July (~7.6M)**.
+- **Wholesale and Online segments** contribute the majority of sales, while Retail lags behind.
+- Payment methods such as **UPI, Wallets, and Net Banking** show similar adoption trends.
+- A **moderate correlation between discounts and profit** suggests higher discounts do not always increase profitability.
+- **Electronics and Books categories** show consistent performance, while others fluctuate.
+- The **average customer rating (~3.0)** indicates potential improvement areas in product quality and customer satisfaction.
 
-Dashboard Features:
+---
 
-- KPI tracking for Sales, Profit, Quantity, and Ratings.
-- Region and Category-based filtering for dynamic analysis.
-- Visualizations including trend analysis, category distribution, and discount vs profit relationships.
+## 📈 Dashboard Features
 
-Tools & Technologies:
-Power BI | Data Visualization | Business Analysis
+- KPI tracking for:
+  - Sales
+  - Profit
+  - Quantity
+  - Ratings
+
+- Interactive filters:
+  - Region-wise analysis
+  - Category-wise analysis
+
+- Visualizations include:
+  - Sales trend over time
+  - Category distribution
+  - Customer segment analysis
+  - Discount vs Profit relationship
+
+---
+
+## 🖼 Dashboard Preview
+
+![Dashboard Screenshot](add-your-image-here.png)
+
+---
+
+## 📂 Files Included
+
+- `Flipkart_Sales_Analysis_Project.pbix` → Power BI Dashboard
+- `flipkart_sales_enriched.csv` → Dataset
+- `README.md` → Project Documentation
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates the ability to transform raw data into meaningful insights using Power BI. It highlights skills in data visualization, business analysis, and dashboard development.
+
+---
+
+## 🔗 Author
+
+**Pranav Kurupath**
+
 
 <img width="910" height="509" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/7680449b-6e7d-4c84-9079-b57bf3da3f8f" />
 <img width="913" height="508" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/4fbc0f27-ffb6-49de-b5f0-2bd5fc13a9d3" />
